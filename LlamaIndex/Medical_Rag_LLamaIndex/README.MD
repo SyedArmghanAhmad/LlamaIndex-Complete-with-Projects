@@ -1,7 +1,10 @@
-
 # Medical Research Assistant with LlamaIndex 🚀
 
-![License](https://img.shields.io/badge/license-MIT-blue)
+![License](https://img.shields.io/badge/license-MIT-blue)  
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)  
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-0.9.0-orange)  
+![Groq](https://img.shields.io/badge/Groq-API-green)  
+![HuggingFace](https://img.shields.io/badge/HuggingFace-Embeddings-yellow)
 
 A **hybrid search system** built with **LlamaIndex** to analyze medical research papers. This project demonstrates my ability to handle **low-level data preprocessing** (manual text extraction and cleaning) and **high-level AI systems** (RAG pipelines with hybrid search). It showcases my skills in **data engineering**, **AI integration**, and **production-grade system design**.
 
@@ -227,7 +230,3 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 - **LlamaIndex**: For the powerful document indexing and retrieval framework.
 - **Groq**: For the high-performance LLM API.
 - **Hugging Face**: For the embedding models.
-
----
-
-This version of the `README.md` highlights your **data preprocessing skills** and the evolution of your project into a **production-grade RAG system**. It’s designed to showcase your **technical depth** and **job readiness**. Let me know if you’d like further refinements! 🚀
