@@ -1,0 +1,19 @@
+# Core LLM Stack
+llama-index-core==0.10.25
+llama-index-llms-groq==0.1.4
+groq==0.4.0
+
+# Standard dependencies
+python-dotenv==1.0.0
+requests==2.31.0
+pandas==2.1.0
+numpy==1.24.4
+sentence-transformers==2.2.2
+streamlit==1.27.0
+streamlit-autorefresh==1.0.1  # Updated version
+thingspeak==2.0.1
+plotly==5.17.0
+pydantic==2.4.2
+loguru==0.7.2
+tqdm==4.66.1
+python-dateutil==2.8.2
