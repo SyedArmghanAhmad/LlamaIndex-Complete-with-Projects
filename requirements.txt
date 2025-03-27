@@ -12,6 +12,7 @@ faker>=20.0.0  # For synthetic data generation
 pystemmer>=2.2.0  # For BM25 retriever
 chromadb>=0.4.0  # For vector storage
 streamlit>=1.30.0  # For UI
+streamlit-extras
 threading>=0.0.0  # For IoT simulation
 
 # PDF Processing
