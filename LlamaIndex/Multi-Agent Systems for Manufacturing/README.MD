@@ -57,21 +57,30 @@ graph LR
 
 ## 🚀 Quick Start
 
-1. **Prerequisites**:
+Here's the complete **Quick Start** guide with the cloning step added as Step 1:
 
+---
+
+## 🚀 Quick Start
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/SyedArmghanAhmad/LlamaIndex-Complete-with-Projects.git
+   cd LlamaIndex-Complete-with-Projects/LlamaIndex/Multi-Agent-Systems-for-Manufacturing
+   ```
+
+2. **Prerequisites**:
    ```bash
    Python 3.9+
    ```
 
-2. **Installation**:
-
+3. **Installation**:
    ```bash
    pip install -r requirements.txt
    ```
 
-3. **Configuration**:
+4. **Configuration**:
    Create `.env` file with:
-
    ```ini
    GROQ_API_KEY=your_key_here
    READ_KEY_IOT=your_thingspeak_key
@@ -79,11 +88,12 @@ graph LR
    CHANNEL_ID_IOT=your_channel_id
    ```
 
-4. **Launch**:
-
+5. **Launch**:
    ```bash
    streamlit run manufacturing_assistant.py
    ```
+
+---
 
 ## 🎨 Design Philosophy
 
