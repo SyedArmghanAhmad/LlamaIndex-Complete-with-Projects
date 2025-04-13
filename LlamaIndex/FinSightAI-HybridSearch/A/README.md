@@ -44,8 +44,11 @@ Welcome to **FinSight AI**, your AI-powered financial analyst! This project leve
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/finsight-ai.git
-   cd finsight-ai
+   # Clone the repository
+   git clone https://github.com/SyedArmghanAhmad/LlamaIndex-Complete-with-Projects.git
+   
+   # Navigate to the FinSightAI-HybridSearch project
+   cd LlamaIndex-Complete-with-Projects/LlamaIndex/FinSightAI-HybridSearch/A
    ```
 
 2. Install dependencies:
