@@ -116,6 +116,23 @@ graph TD
     I --> J[Dashboard Visualization]
 ```
 
+## Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/SyedArmghanAhmad/LlamaIndex-Complete-with-Projects.git
+
+# Navigate to the project directory
+cd LlamaIndex-Complete-with-Projects/LlamaIndex/End-to-End\ Project/
+
+# Install dependencies (recommended to use Python 3.9+)
+pip install -r requirements.txt
+
+# Set up environment variables
+cp .env.example .env
+# Edit the .env file with your API keys and configurations
+```
+
 ## 🎯 Key Features
 
 ### 🔍 Intelligent Search Capabilities
